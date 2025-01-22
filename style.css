@@ -119,6 +119,7 @@ button:disabled {
 
     h1 {
         font-size: 50px;
+        padding-bottom: 3rem ;
     }
 
     .container__botao {
